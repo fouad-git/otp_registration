@@ -1,0 +1,13 @@
+{
+    "name": "registrationotp/fouad",
+    "description": "connexion with otp verification",
+    "require": {
+        "phpmailer/phpmailer": "^6.2"
+    },
+    "authors": [
+        {
+            "name": "fouad lyousfi",
+            "email": "fouad.lyousfi@hotmail.com"
+        }
+    ]
+}
